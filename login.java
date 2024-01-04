@@ -1,6 +1,11 @@
-just modifying login.java in vi editor
+public class LoginUser
+{
+	public static void main(string args[])
+	{
+		int i;
+		for (i=0;i<=40;i++){
+			System.out.println("Number: ' +i);
+		}
+	}
+}
 
-this is second line in login.java
-
-
-here name is changed to loginuser
